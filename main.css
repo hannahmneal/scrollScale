@@ -6,7 +6,7 @@
   #audrey {
     background-color: purple;
     color: snow;
-    height: 100px;
+    min-height: 100px;
     width: 50px;
     position: fixed;
   }
